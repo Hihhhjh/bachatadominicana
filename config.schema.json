@@ -1,15 +1,15 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "BachataDominicana",
   "pluginType": "platform",
   "singular": true,
   "schema": {
-    "type": "object",
+    "type": "speaker",
     "properties": {
       "name": {
-        "title": "Name",
+        "title": "Nombre de bachata y artista",
         "type": "string",
         "required": true,
-        "default": "Example Dynamic Platform"
+        "default": ""
       }
     }
   }
