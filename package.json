@@ -1,9 +1,9 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Homebridge Bachata Dominicana",
+  "name": "homebridge-bachata-dominicana",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Bocina de homebridge con bachata",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
